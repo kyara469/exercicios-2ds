@@ -1,5 +1,5 @@
 {
-  "name": "aula02-classes-constructor-e-this",
+  "name": "aula02",
   "version": "1.0.0",
   "description": "- Compreender o conceito de classe em JavaScript. - Aprender a utilizar o método `constructor`. - Entender o funcionamento da palavra-chave `this`. - Criar objetos utilizando classes.",
   "main": "index.js",
