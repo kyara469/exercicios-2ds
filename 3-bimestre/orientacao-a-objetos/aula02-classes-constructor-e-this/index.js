@@ -8,4 +8,7 @@ class Funcionario {
 
 const Joao = new Funcionario("joao", "desenvolvedor", 5000)
 
-console.log(Joao)
+console.log (Joao)
+
+
+

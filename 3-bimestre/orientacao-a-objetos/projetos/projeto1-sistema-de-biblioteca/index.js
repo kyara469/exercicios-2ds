@@ -1,5 +1,5 @@
 class Livro {
-    constructor(titulo, autor, ano){
+    constructor(titulo, autor, ano, disponibilidade){
         this.titulo = titulo,
         this.autor = autor,
         this.ano = ano,
