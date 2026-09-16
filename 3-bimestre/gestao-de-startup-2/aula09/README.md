@@ -219,5 +219,9 @@ Ela possui um protótipo simples desenhado em papel.
 Crie:
 
 1. Uma tarefa que será dada ao usuário.
+   encontrar uma tarefa de Matemática e adicionar uma nova tarefa
 2. Duas coisas que a equipe deverá observar.
+   se o usuário consegue usar o protótipo facilmente
+   se ele fica perdido ou tem dificuldade para encontrar alguma função
 3. Uma pergunta para fazer depois do teste.
+   O que foi mais difícil de usar no protótipo?
