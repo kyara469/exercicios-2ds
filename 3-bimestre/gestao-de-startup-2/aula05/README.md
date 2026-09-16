@@ -206,6 +206,10 @@ _
 Para cada situação, indique qual reunião seria mais adequada:
 
 1. A equipe precisa decidir quais tarefas serão realizadas na próxima Sprint.
+   Planejamento
 2. Um desenvolvedor quer informar que está bloqueado por um problema.
+   Diário
 3. A equipe terminou uma Sprint e precisa apresentar o que desenvolveu.
+   Revisão
 4. A equipe percebeu que houve problemas de comunicação durante a Sprint e quer descobrir como melhorar.
+   Retrospectiva
