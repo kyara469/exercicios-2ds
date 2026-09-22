@@ -317,3 +317,10 @@ Identifique cada uma:
 - MVP
 - MLP
 - MMP
+
+    Situação A : MVP (Minimum Viable Product): versão mínima funcional, capaz de atender à necessidade principal
+
+    Situação B : MLP (Minimum Lovable Product): além de funcionar, oferece uma experiência mais agradável e fácil de usar
+
+    Situação C : MMP (Minimum Marketable Product): produto estável, com experiência adequada e pronto para ser oferecido comercialmente
+
